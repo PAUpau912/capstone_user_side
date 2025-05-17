@@ -13,7 +13,7 @@ export default function Signup() {
 
   const handleSignup = () => {
     // Add signup logic here
-    router.replace('../screens/Login');
+    router.replace('../screens/registration');
   };
 
   return (
